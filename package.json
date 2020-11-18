@@ -31,7 +31,7 @@
     "jest-cli": "^24.8.0",
     "lolex": "2.3.2",
     "nise": "^1.2.5",
-    "semantic-release": "^15.13.12",
+    "semantic-release": "^17.2.3",
     "webpack": "^3.6.0"
   },
   "scripts": {
